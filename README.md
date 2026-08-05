@@ -37,4 +37,3 @@ I'm a Computer Science student passionate about software development and buildin
 
 GitHub:
 https://github.com/jamilashraf2888540-creator
-## 🛠️ Skills
