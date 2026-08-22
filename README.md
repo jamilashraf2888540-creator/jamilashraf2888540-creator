@@ -17,8 +17,9 @@ I'm a Computer Science student passionate about software development and buildin
 - Java
 - OOP
 - Git & GitHub
-- MySQL (Learning)
+- MySQL 
 - Figma
+- problem-solving
 
 ## 📚 Current Projects
 
