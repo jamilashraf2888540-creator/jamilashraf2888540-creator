@@ -20,6 +20,7 @@ I'm a Computer Science student passionate about software development and buildin
 - MySQL 
 - Figma
 - problem-solving
+- SQL Server DataBase
 
 ## 📚 Current Projects
 
